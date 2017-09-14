@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "291114169252",
+    "firebase_url": "https://chatbot-262e6.firebaseio.com",
+    "project_id": "chatbot-262e6",
+    "storage_bucket": "chatbot-262e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291114169252:android:53159b374eb9a87f",
+        "android_client_info": {
+          "package_name": "com.ratulbintazul.www.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291114169252-nnsjvp6m0cvib3q79t7ttmk7l71mebrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ratulbintazul.www.chatbot",
+            "certificate_hash": "dff0b4f509056454c5b7494eaa0aa17ec7565891"
+          }
+        },
+        {
+          "client_id": "291114169252-dr1jcboqj6r299ci3bki056dgvamemdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfWxQkoMQfo-JyHyGOFzsJIzz7OtdsaZs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291114169252-dr1jcboqj6r299ci3bki056dgvamemdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
